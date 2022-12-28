@@ -38,7 +38,7 @@ npm start
 # ![ScreenShot](https://raw.github.com/puja-shivankar/Taantrata-Task./master/pictures/ScreenshotThree.png)
 
 # Reason Why use Node 
-    I didnt get Much time to explore vonage and I dont have the explorar Material As well.
-    within a time frame I need to complete the task beacuse you guys have invested time in me so I dont want to let you people down and I value your time. 
-    I have some hands on experience on node thats why withput wasting of time I made application by using node as backend.
+    I didn't get much time to explore vonage and I dont have any refference material related to vonage. You have given specific time period for this task and 
+    you guys have invested time in me so I don't want to let you people down and I value your time. That's the reason I have made this application using node as backend,because I have some hands on experience on node. 
+
 
